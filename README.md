@@ -2,7 +2,7 @@
 
 **List of resources to learning this *amazing* platform for building top-quality web apps with JavaScript! ❤**
 
-# [Meteor's site](https://www.meteor.com/)
+# [Meteor's site](https://www.meteor.com)
 
 ## Table of Contents
 
